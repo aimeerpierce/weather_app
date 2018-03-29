@@ -1,0 +1,21 @@
+{
+  "name": "bluewolf-weatherapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "devstart": "nodemon server.js"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "body-parser": "~1.4.2",
+    "dark-sky": "^1.1.2",
+    "express": "~4.8.0",
+    "highcharts": "^6.0.7",
+    "method-override": "~2.0.2",
+    "mongoist": "^1.7.2",
+    "skycons": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}

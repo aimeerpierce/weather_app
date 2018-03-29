@@ -1,0 +1,58 @@
+body {
+	margin: 50px;
+}
+
+#user_welcome {
+
+}
+
+#search_area {
+
+}
+
+.weather_results{
+
+}
+
+#current_weather{
+
+}
+
+#current_forecast{
+
+}
+
+#login_registration{
+
+}
+
+#container{
+
+}
+
+#icon1{
+
+}
+
+#icon2{
+
+}
+
+.center {
+    margin: auto;
+    width: 70%;
+    border: 3px solid grey;
+    padding: 20px;
+}
+
+.left {
+    float: left;
+    border: 3px solid grey;
+    padding: 10px;
+}
+
+.right {
+    float: right;
+    border: 3px solid grey;
+    padding: 10px;
+}
