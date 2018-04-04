@@ -1,7 +1,9 @@
 ## Weather Application
 
 This Weather Application finds the current weather and forecast for a given location using the [Google Maps API](https://developers.google.com/maps/) and [Dark Sky API](https://darksky.net/dev). Users can register and see search history as well!  
-I developed with a MEAN stack: MongoDB, Express, AngularJS, and Node.js. Other tools include [mlab](http://docs.mlab.com/), [Mongoist](https://github.com/saintedlama/mongoist), [Skycons](http://darkskyapp.github.io/skycons/) and [PURE](https://purecss.io/). 
+I developed with a MEAN stack: MongoDB, Express, AngularJS, and Node.js. Other tools include [mlab](http://docs.mlab.com/), [Mongoist](https://github.com/saintedlama/mongoist), [Skycons](http://darkskyapp.github.io/skycons/) and [PURE](https://purecss.io/).  
+
+Check it out here: https://aimeeweatherapp.herokuapp.com/ 
 
 
 ### Challenges
